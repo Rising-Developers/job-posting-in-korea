@@ -10,3 +10,5 @@
 | [ 카카오 ](#KaKao) | 영입종료시 | 대기업 | 3년 이상 | 이커머스 | 코테/과제 | [🔖](https://careers.kakao.com/jobs/P-13641) |
 | [레몬베이스](#레몬베이스) | 상시 | Series A | 3년 이상 | SaaS | 과제 | [🔖](https://www.lemonbase.team/recruit/fe)|
 | [오늘의집](#오늘의집) | 상시 | Series D | 만 3년 이상 | 이커머스 | 코테 | [🔖](https://bucketplace.career.greetinghr.com/o/15295)|
+| [토스](#토스) | ~6/21 | Series G | - | 금융 | 과제 | [🔖](https://toss.im/career/job-detail?gh_jid=6008304003)|
+
